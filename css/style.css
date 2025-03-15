@@ -51,6 +51,7 @@ a{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    font-style: normal;
 }    
 
 .address-list .address{
@@ -83,12 +84,12 @@ a{
     letter-spacing: 0.04em;
     color: #fff;
     font-style: italic;
-    background:#4d5ae5;
+    background:#404BBF;
     cursor: pointer;
 }
 
 .hero-page .button{
-    color:#4d5ae5;
+    color:#404BBF;
 }
 
 .hero-page .button:hover,
@@ -125,7 +126,6 @@ a{
 }
 
 .team-item{
-    box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
     background: #fff;
 }
 
