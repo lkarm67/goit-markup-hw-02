@@ -67,7 +67,6 @@ a{
 .hero-page{
     background: #2e2f42;
 }
-
 .hero-page-title{
     font-weight: 700;
     font-size: 56px;
@@ -76,7 +75,6 @@ a{
     text-align: center;
     color: #fff;
 }
-
 .hero-page-button{
     font-weight: 500;
     font-size: 16px;
@@ -84,17 +82,12 @@ a{
     letter-spacing: 0.04em;
     color: #fff;
     font-style: italic;
-    background:#4D5AE5;
+    background-color:#4d5ae5;
     cursor: pointer;
 }
 
-.hero-page .button{
-    color:#4D5AE5;
-}
-
-.hero-page .button:hover,
-.hero-page .button:focus{    
-    color: #404bbf;
+button:hover{
+    background-color: #404bbf;   
 }
 
 .features-subtitle{
