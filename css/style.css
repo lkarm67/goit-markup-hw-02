@@ -23,7 +23,7 @@ a{
     color: #4d5ae5;
 }
 
-.header-accent{
+.header-logo .logo-part{
     color: #2e2f42;
 }
 
@@ -43,23 +43,23 @@ a{
     color: #404bbf;
 }
 
-.address-list{
+.address{
    font-style: normal;
 } 
 
-.address{
+.address-link{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    font-style: normal;
+    color: #434455;
 }    
 
 .address-list .address{
     color: #434455   
 } 
 
-.address-list .address:hover,
-.address-list .address:focus{
+.address-link:hover,
+.address-link:focus{
     color: #404bbf;
 }
 
@@ -84,12 +84,12 @@ a{
     letter-spacing: 0.04em;
     color: #fff;
     font-style: italic;
-    background:#404BBF;
+    background:#4D5AE5;
     cursor: pointer;
 }
 
 .hero-page .button{
-    color:#404BBF;
+    color:#4D5AE5;
 }
 
 .hero-page .button:hover,
@@ -187,7 +187,7 @@ a{
     color: #4d5ae5;
 }
 
-.footer-accent{
+.footer-logo .logo-part{
     color: #f4f4fd;
 }
 
